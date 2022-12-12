@@ -16,4 +16,4 @@ A continación se puede evidenciar el cómo quedó la interfaz con el funcionami
 
 
 
-<img src="Reto4:demo.gif" width="600" />
+<img src="Reto4_demo.gif" width="600" />
